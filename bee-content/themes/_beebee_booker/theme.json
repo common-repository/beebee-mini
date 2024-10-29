@@ -1,0 +1,29 @@
+{
+    "id": "beebee_booker",
+    "vision": "4.2.0",
+    "title": "爱书者",
+    "subtit": "支持连载+网盘下载的原创图书借阅共享小程序主题。",
+    "desc": "书籍连载+书籍网盘下载+书籍共享借阅+书籍联盟交易+自动合成封面+豆瓣读书数据导入+分类关联+流量主广告+全局搜索+会员交互。支持跟随系统切换黑白风格。",
+    "crowd": "大学生、学校、企业、个人自媒体",
+    "miss": {
+        "MINI_PROGRAM_API_PLUGIN": {
+            "name": "Mini Program API",
+            "vision": "",
+            "url": "wp-mini-program",
+            "isinclude": true
+        },
+        "APP_BEEBEE_API_PLUGIN": {
+            "name": "Beebee Mini",
+            "vision": "",
+            "url": "beebee-mini",
+            "isinclude": true
+        }
+    },
+    "screenshot": "booker-view.jpg",
+    "viewqrcode": "asz_qrcode.jpg",
+    "viewimage": "asz_1.png",
+    "viewbgcolor": "#FFB800",
+    "viewstyle": "blackbg",
+    "link": "https://beebee.work/",
+    "seturl": "1"
+}

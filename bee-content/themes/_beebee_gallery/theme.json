@@ -1,0 +1,29 @@
+{
+    "id": "beebee_gallery",
+    "vision": "1.1.2",
+    "title": "图文社",
+    "subtit": "瀑布流形式展示的图文并茂图片分享小程序主题。",
+    "desc": "3个内容栏目+积木布局+音乐关联+商品关联+分类关联+流量主广告+全局搜索+会员交互。支持跟随系统切换黑白风格。",
+    "crowd": "大学生、设计师、素材爱好者、个人自媒体",
+    "miss": {
+        "MINI_PROGRAM_API_PLUGIN": {
+            "name": "Mini Program API",
+            "vision": "",
+            "url": "wp-mini-program",
+            "isinclude": true
+        },
+        "APP_BEEBEE_API_PLUGIN": {
+            "name": "Beebee Mini",
+            "vision": "",
+            "url": "beebee-mini",
+            "isinclude": true
+        }
+    },
+    "screenshot": "gallery-view.jpg",
+    "viewqrcode": "tws_qrcode.jpg",
+    "viewimage": "tws_1.png",
+    "viewbgcolor": "#282830",
+    "viewstyle": "blackbg",
+    "link": "https://beebee.work/",
+    "seturl": "1"
+}
